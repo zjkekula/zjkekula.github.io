@@ -2,6 +2,7 @@
 
 ## Overview
 Have video Demo Here 
+
 Parahgraph describing the project
 
 ## Team 
@@ -9,5 +10,7 @@ Parahgraph describing the project
 ## Project 
 
 ### Chassis
+
 ### PCB Schematic
+
 ### Bela-Board 
