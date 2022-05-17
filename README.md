@@ -1,8 +1,7 @@
 
+# AetherHarp
 
-#AetherHarp
-
-##Overview
+## Overview
 Have video Demo Here 
 Parahgraph describing the project
 
