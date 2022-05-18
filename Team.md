@@ -1,3 +1,3 @@
 layout: page
 title: "Team"
-permalink: /about/team/
+permalink: /team/about.html
